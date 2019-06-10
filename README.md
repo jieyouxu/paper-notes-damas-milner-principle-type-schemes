@@ -78,9 +78,9 @@ Let there be a set `Id` of identifiers `x`, then the language `Exp` of expressio
 
 ```haskell
 e ::= x
-	|		e e'
-	|   \x -> e
-	| 	let x = e in e'
+  |   e e'
+  |   \x -> e
+  |   let x = e in e'
 ```
 
 The last clause extends λ-calculus.
