@@ -12,7 +12,7 @@ Finding the most general type possible allows:
 
 ## References
 
-**[1]** Damas, L. and Milner, R. 1982. Principal type-schemes for functional programs. *Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages - POPL 82*(1982). DOI:http://dx.doi.org/10.1145/582153.582176.
+**[Damas 1982]** Damas, L. and Milner, R. 1982. Principal type-schemes for functional programs. *Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages - POPL 82*(1982). DOI:http://dx.doi.org/10.1145/582153.582176.
 
-**[2]** Milner, R., 1978. A theory of type polymorphism in programming. *Journal of Computer and System Sciences*, 17(3), pp.348-375.
+**[Milner 1978]** Milner, R., 1978. A theory of type polymorphism in programming. *Journal of Computer and System Sciences*, 17(3), pp.348-375.
 
